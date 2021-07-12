@@ -18,6 +18,11 @@ skill improvement. Also, this is the best opportunity to exercise my abilities a
   Web development fits me well, because I always search for the most efficient/optimal way to solve a problem and I 
 have ability to work well in groups.
 
+### __Code examples__
+* [Progress steps(JS)](https://t.ly/6eZs)
+* [Small game on JavaSript](https://t.ly/8aIV)
+* [Survey form](https://codepen.io/malvinatsulukidze/pen/zYBQgME)
+* [David Bowie tribute page](https://codepen.io/malvinatsulukidze/pen/QWEYajd)
 
 ### __Experience__
 I never had experience in web development but i always work my own little projects
