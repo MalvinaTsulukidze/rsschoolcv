@@ -26,7 +26,7 @@ I know what is my goal in programming and what do I need to achieve it!
 * [David Bowie tribute page](https://codepen.io/malvinatsulukidze/pen/QWEYajd)
 
 ### __Experience__
-I never had experience in web development but I always work my own little projects
+I never had experience in web development but I always work on my own little projects
 
 
 ### __Education__
