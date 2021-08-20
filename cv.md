@@ -37,10 +37,10 @@ University of Georgia(UG)
   * Udemy(Currenty doing "The Complete JavaScript Course 2020 From Zero to Expert! course);
 ### __Languages__
 
-  * Georgian :point_right: native  
-  * Russian :point_right: native 
-  * English :point_right: fluent
-  * Turkish :point_right: B1
+  * Georgian ☞ native  
+  * Russian ☞ native 
+  * English ☞ fluent
+  * Turkish ☞ B1
 
 *I've been learning English since 5th grade. My level of knowledge is Advanced/Fluent and I have zero issues with reading, analysing and understanding documentations, 
 articles, etc.*
