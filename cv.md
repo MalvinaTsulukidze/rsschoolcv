@@ -13,10 +13,11 @@
   * MySQL
   * Git
 
-  In general, I enjoy the whole process of learning new things about programming and I think this course can help me with 
-skill improvement. Also, this is the best opportunity to exercise my abilities and to use them for EPAM. 
-  Web development fits me well, because I always search for the most efficient/optimal way to solve a problem and I 
-have ability to work well in groups.
+  I enjoy the whole process of learning new things about programming and I'm sure this course can help me to learn even more.
+I feel like this is best opportunity to improve my problem solving skill and to exercise my abilities. To be honest, at university, high grades 
+(and subjects like: Academic Writing, Office Systems, Geoinformatics, that didn't interest me that much) were more importand for me than actual 
+programming. I call freshman/sophomore years "wasted years" as a joke because of that🤷 Now that I'm a junior(technically senior in a few months, 4th year) 
+I know what is my goal in programming and what do I need to achieve it!
 
 ### __Code examples__
 * [Progress steps(JS)](https://t.ly/6eZs)
@@ -25,7 +26,7 @@ have ability to work well in groups.
 * [David Bowie tribute page](https://codepen.io/malvinatsulukidze/pen/QWEYajd)
 
 ### __Experience__
-I never had experience in web development but i always work my own little projects
+I never had experience in web development but I always work my own little projects
 
 
 ### __Education__
