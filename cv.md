@@ -44,4 +44,3 @@ University of Georgia(UG)
 
 *I've been learning English since 5th grade. My level of knowledge is Advanced/Fluent and I have zero issues with reading, analysing and understanding documentations, 
 articles, etc.*
-*Also, Thanks to video games and people online hehe!*
